@@ -2,6 +2,7 @@
 QAgent learns to balance pendulum upright.
 
 
-[![SC2 Video](doc/SC2_youtube.gif)](https://www.youtube.com/watch?v=qVr0fDfC64A&ab_channel=DataMachinist)
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/39532087/125336318-42ffd380-e36b-11eb-8c07-9709b01afced.gif)
+
 
 
